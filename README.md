@@ -5,7 +5,7 @@
 
 
 ### https://github.com/sarkov28/c19_tokyo_kunishihyou
-東京都が発表している、東京都の国基準の重症者などに関する情報を csv 化しています。  
+東京都が発表している、国基準コロナデータを csv 化しています。  
 
 ## Author
 
