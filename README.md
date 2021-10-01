@@ -1,11 +1,9 @@
 ## 主なリポジトリ：
 
-### https://github.com/sarkov28/c19_mhlw_after_vaccination
-厚労省が発表している、新型コロナワクチンの、副反応に関する情報を csv 化しています。  
-
-
-### https://github.com/sarkov28/c19_tokyo_kunishihyou
-東京都が発表している、国基準コロナデータを csv 化しています。  
+- https://github.com/sarkov28/c19_mhlw_after_vaccination  
+  厚労省が発表している、新型コロナワクチンの、副反応に関する情報を csv 化しています。  
+- https://github.com/sarkov28/c19_tokyo_kunishihyou  
+  東京都が発表している、国基準コロナデータを csv 化しています。  
 
 ## Author
 
