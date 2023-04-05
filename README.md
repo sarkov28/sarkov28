@@ -1,5 +1,3 @@
-## 主なリポジトリ：
-
 ## Author
 
 https://twitter.com/sarkov28
