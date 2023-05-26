@@ -2,8 +2,9 @@
 
 sarkov28<br>
 
-https://twitter.com/sarkov28
-https://sarkov28.hatenablog.com/entry/2022/03/29/160915
+https://twitter.com/sarkov28<br>
+<br>
+https://sarkov28.hatenablog.com/entry/2022/03/29/160915<br>
 
 twitter やブログに、コロナに関することを色々と書いています。
 
