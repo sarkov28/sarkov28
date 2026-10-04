@@ -5,6 +5,8 @@ sarkov28<br>
 https://x.com/sarkov28<br>
 <br>
 https://sarkov28.hatenablog.com/entry/2022/03/29/160915<br>
+<br>
+https://orcid.org/0009-0000-9544-8622<br>
 
 x.com やブログに、コロナに関することを色々と書いています。
 
