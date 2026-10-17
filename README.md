@@ -8,8 +8,14 @@ https://orcid.org/0009-0000-9544-8622<br>
 <br>
 https://x.com/sarkov28<br>
 
-x.com やブログに、コロナに関することを色々と書いています。
+色々なことを書いていますが、今のところ全てコロナ関連です。
 
+- 西浦氏のマスクに関する反実仮想シナリオ論文 https://doi.org/10.1016/j.idm.2024.08.002 の問題点の指摘<br>
+  The reported counterfactual death counts are not reproduced by the dynamic calculation described in the paper, but by a static rescaling:<br>
+  An examination of the mask-wearing counterfactual calculation in Nagata, Okada, and Nishiura (2024)<br>
+  報告された反実仮想の死者数は、論文の記述どおりの動的計算では再現せず、静的な再スケーリングで再現する:<br>
+  Nagata, Okada, and Nishiura (2024) のマスク着用反実仮想計算の検証<br>
+  https://doi.org/10.5281/zenodo.23415294
 - ネット上でしていることのまとめ<br>
 https://sarkov28.hatenablog.com/entry/2022/03/29/160915
 - （インストール不要で）SIR モデルを計算できるスクリプト<br>
